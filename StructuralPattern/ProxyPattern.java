@@ -48,23 +48,7 @@ class RealVideoDownloader implements VideoDownloader {
 // Driver
 // ==========================================================
 //public class ProxyPattern {
-//
-//    public static void main(String[] args) {
-//
-//        VideoDownloader downloader =
-//                new RealVideoDownloader();
-//
-//        downloader.downloadVideo("java-course");
-//
-//        System.out.println();
-//
-//        // Same video again
-//
-//        downloader.downloadVideo("java-course");
-//    }
-//}
-
-//User same video dobara dekh raha hai.
+// same video dobara dekh raha hai.
 //
 //Fir bhi
 //
